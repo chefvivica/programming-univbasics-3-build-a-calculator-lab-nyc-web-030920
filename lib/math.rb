@@ -5,17 +5,17 @@ end
 
 def subtraction(num1, num2)
 puts remainder = num1 - num2
-sum 
+remainder 
 end
 
 def division(num1, num2)
 puts  product = num1 * num2
-sum 
+product 
 end
 
 def multiplication(num1, num2)
-puts  quotient = num1 * num2
-sum 
+puts  quotient = num1 / num2
+quotient 
 end
 
 def modulo(num1, num2)
