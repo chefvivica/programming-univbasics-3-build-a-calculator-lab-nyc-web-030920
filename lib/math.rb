@@ -14,8 +14,8 @@ quotient
 end
 
 def multiplication(num1, num2)
-puts  product= num1 / num2
-quotient 
+puts  product = num1 / num2
+product 
 end
 
 def modulo(num1, num2)
