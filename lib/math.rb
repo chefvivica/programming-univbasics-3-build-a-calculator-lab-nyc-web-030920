@@ -4,7 +4,7 @@ sum
 end
 
 def subtraction(num1, num2)
-puts sum = num1 - num2
+puts remainder = num1 - num2
 sum 
 end
 
