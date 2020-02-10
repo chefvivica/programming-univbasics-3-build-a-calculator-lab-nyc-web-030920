@@ -14,7 +14,7 @@ sum
 end
 
 def multiplication(num1, num2)
-puts  product = num1 * num2
+puts   = num1 * num2
 sum 
 end
 
