@@ -4,8 +4,8 @@ sum
 end
 
 def subtraction(num1, num2)
-puts remainder = num1 - num2
-remainder 
+puts difference = num1 - num2
+difference  
 end
 
 def division(num1, num2)
@@ -19,7 +19,8 @@ product
 end
 
 def modulo(num1, num2)
-puts 
+puts remainder = num1 % num2
+remainder
 end
 
 def square_root(num)
