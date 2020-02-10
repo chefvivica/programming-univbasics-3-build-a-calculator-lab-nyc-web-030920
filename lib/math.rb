@@ -9,12 +9,12 @@ remainder
 end
 
 def division(num1, num2)
-puts  product = num1 * num2
-product 
+puts  quotient = num1 / num2
+quotient 
 end
 
 def multiplication(num1, num2)
-puts  quotient = num1 / num2
+puts  product= num1 / num2
 quotient 
 end
 
