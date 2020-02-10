@@ -19,7 +19,7 @@ product
 end
 
 def modulo(num1, num2)
-
+puts 
 end
 
 def square_root(num)
